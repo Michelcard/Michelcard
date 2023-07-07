@@ -1,3 +1,5 @@
+## Seja Bem-vindo(a) ao meu Perfil!!
+
 <div>
   <a href="https://github.com/Michelcard">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Michelcard&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -16,7 +18,7 @@
 <div> 
   <a href="https://instagram.com/michelgarcia20/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "michelcardoso85@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/michel-cardoso-445916253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/michel-cardoso-445916253" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Michelcard/Michelcard/blob/output/github-contribution-grid-snake.svg)
 
